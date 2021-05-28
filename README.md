@@ -1,4 +1,4 @@
-# Django in Teamwork - Write by Khoa Huynh
+# Django in Teamwork - Writen by Khoa Huynh
 ## Django, Python Convention
 ### PEP 8
 - PEP 8 is the official style guide for Python. We advise reading it in detail and learn to follow the PEP 8 coding conventions: (PEP8)[python.org/dev/peps/pep-0008/]
