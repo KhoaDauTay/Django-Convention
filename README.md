@@ -1,7 +1,7 @@
 # Django in Teamwork - Writen by Khoa Huynh
 ## Django, Python Convention
 ### PEP 8
-- PEP 8 is the official style guide for Python. We advise reading it in detail and learn to follow the PEP 8 coding conventions: (PEP8)[python.org/dev/peps/pep-0008/]
+- PEP 8 is the official style guide for Python. We advise reading it in detail and learn to follow the PEP 8 coding conventions: python.org/dev/peps/pep-0008/
 - PEP 8 describes coding conventions such as:
   - Use 4 spaces per indentation level.
   - Separate top-level function and class definitions with two blank lines.
@@ -101,7 +101,7 @@ your work
     from django.db.forms import CharField as FormCharField
     ```
 ### Django Coding Style
-- Please read it (here)[https://docs.djangoproject.com/en/3.2/internals/contributing/writing-code/coding-style/]
+- Please read here: https://docs.djangoproject.com/en/3.2/internals/contributing/writing-code/coding-style/
 ### Use Underscores in URL Pattern Names Rather Than Dashes 
     ```
     # Bad Example
