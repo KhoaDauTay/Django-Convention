@@ -69,9 +69,9 @@ your work
 
 |  Code |  Import Type  | Usage  | 
 |---    |---|---|
-| `from core.views import StudentView`  |  absolute import   |  Use when importing from outside the current app |
-| `from .models import Student`    | explicit relative  | Use when importing from another module in the current app  |
-| `from models import Student`    | implicit relative  | Often used when importing from another module in the current app, but not a good idea  |
+|`from core.views import StudentView`|absolute import|Use when importing from outside the current app |
+|`from .models import Student`|explicit relative|Use when importing from another module in the current app  |
+|`from models import Student`|implicit relative|Often used when importing from another module in the current app, but not a good idea  |
 ### Avoid using import *
 - Take whatever you need
     ```
