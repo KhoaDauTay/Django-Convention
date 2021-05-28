@@ -58,7 +58,7 @@ your work
 - Convert to good
 
 ```
-    # Bad Example
+    # Good Example
     from .models import Student
 
     from .forms import StudentForm
